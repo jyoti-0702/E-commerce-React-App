@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { CartProvider } from './context/CartContext';
-import Navbar from './components/Navbar';
+import Navbar from './Components/Navbar';
 import ProductItems from './ProductItems';
 import Category from './Category';
 import CartSidebar from './Components/CartSidebar';
